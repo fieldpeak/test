@@ -1,5 +1,5 @@
 {
-    "name": "test",
+    "name": "Microbit-test",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -16,5 +16,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
